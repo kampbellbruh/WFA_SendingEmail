@@ -1,0 +1,11 @@
+C:\документы учеба\С#\WFA_SendingEmail\bin\Debug\WFA_SendingEmail.exe.config
+C:\документы учеба\С#\WFA_SendingEmail\bin\Debug\WFA_SendingEmail.exe
+C:\документы учеба\С#\WFA_SendingEmail\bin\Debug\WFA_SendingEmail.pdb
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.csproj.AssemblyReference.cache
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.Form1.resources
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.Properties.Resources.resources
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.csproj.GenerateResource.cache
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.csproj.CoreCompileInputs.cache
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.exe
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.pdb
+C:\документы учеба\С#\WFA_SendingEmail\obj\Debug\WFA_SendingEmail.exe.config
